@@ -1,0 +1,29 @@
+
+div
+{
+    width: 100px;
+    height: 100px;
+    margin: 28px;
+    display: inline block;
+}
+#fal
+{
+    
+    display: block;
+    text-align: center;
+    display: block;
+}
+
+p
+{
+    text-align: center;
+    border: 6px dashed red;
+    text-emphasis: bold;
+    text-decoration: underline;
+    font-family: roboto;
+}
+h1
+
+    {
+        background-color:rgba(red, green, rgb(255), alpha(0.5));
+    }
