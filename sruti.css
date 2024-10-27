@@ -1,22 +1,22 @@
 body {
     font-family: 'Verdana', sans-serif;
     background-color: #e3f2fd;
-    color: #333;
-    margin: 0;
-    padding: 20px;
+    color: #f10303;
+    margin: 1px;
+    padding: 33px;
 }
 
 h1 {
-    font-size: 2.5em;
-    color: #1565c0;
-    text-align: left;
-    margin: 20px 0;
+    font-size: 3.5em;
+    color: #c015a9;
+    text-align: center;
+    margin: 33px 0;
 }
 
 p {
-    font-size: 18px;
+    font-size: 33px;
     line-height: 1.8;
     color: #424242;
     margin-bottom: 15px;
-    text-align: left;
+    text-align: right;
 }
