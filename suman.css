@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 155, 233);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#masuka{
+text-align: center;
+text-decoration: double;
+font-weight: 300;
+font-size: x-large;
+}
+#mere{
+    border: 96px;
+    text-align: center;
+    text-decoration: dotted;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 80pc;
+    background-color: rgba(155, 222, 150, 0.52);
+    margin: 50px;
+    font-weight: 500;
+    
+}
