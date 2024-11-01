@@ -1,24 +1,19 @@
 #include"iostream"
 using namespace std;
-int main()
+int main ()
 {
-    int ch;
-    cout<<"select any number from 1 to 3"<<;
-    cin>>ch;
-    switch(ch)
-    {
-        case1 :
-            cout<<"hello good morning all"<<endl;
-            break;
-        case2:
-            cout<<"Heloo good after noon"<<endl;
-            break;
-            
-        case3:
-            cout<<"Hello good evening"<<endl;
-            break;
-            defult:
-            cout<<"choice is so bad"<<endl;
-    }
+
+        int ch, no1, no2, res;
+        cout<<"select 1 for Add two number \n select 2 for sub of two number"<<;
+        cin>>ch;
+        cout<<" Enter Two number ";
+        cin>>ch;
+        cout<<"Enter two number "<<;
+        cin>>no1>>no2;
+        switch(ch)
+        {
+            case 1;
+                res=no1+no2;
+        }
 
 }
