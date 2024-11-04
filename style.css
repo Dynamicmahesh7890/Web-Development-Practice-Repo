@@ -5,7 +5,7 @@ div{
     padding: 25px;
     display: inline-block;
 }
-#seno{
+body{
 
     font-family:poppins-thin {
         font-family: "Poppins", serif;
@@ -114,5 +114,5 @@ div{
         font-weight: 900;
         font-style: italic;
       }
-    ;
+    background-color: rgba(245,144,49,.8);
 }
